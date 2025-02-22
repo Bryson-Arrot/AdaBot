@@ -4,7 +4,7 @@ FILES:
             All data files for Cresci-15
         - T_20
             All data files for Twibot-20
-        - T_22
+        - T_22_com
             All data files for 10 communities in Twibot-22
 
     - AdaBot-cross-community.py
